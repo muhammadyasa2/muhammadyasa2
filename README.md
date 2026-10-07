@@ -1,16 +1,13 @@
-## Hi there 👋
+# Muhammad Yasa
 
-<!--
-**muhammadyasa2/muhammadyasa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent SaaS publisher covering AI receptionist, call automation, and business software.
 
-Here are some ideas to get you started:
+I publish practical comparisons and buyer guides focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI receptionist software
+- Call automation
+- Business SaaS
+- Pricing and plan comparisons
+- Workflow and buyer-fit analysis
+
+The goal is to help service businesses make clearer software buying decisions.
